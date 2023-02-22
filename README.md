@@ -14,4 +14,4 @@
 
 |        Real App Image Preview        |        UI replicate Preview        |
 |:----------------------------------:|:-----------------------------------:|
-| <img src="real_app.png" width="350"> | <img src="sample.png" width="350"> |
+| <img src="realapp.png" width="350"> | <img src="sample.png" width="350"> |
